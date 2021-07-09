@@ -1,6 +1,4 @@
-data/
 venv/
-data/BTCUSD_1hr.csv
 data/BTCUSD_1min.csv
 data/BTCUSD_day.csv
 data/tweets.csv
